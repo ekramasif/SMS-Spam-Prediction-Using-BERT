@@ -1,4 +1,4 @@
-# Multilingual SMS spam detection using Bidirectional Encoder Representations from Transformers
+# SMS spam detection using Bidirectional Encoder Representations from Transformers
 
 ## Objective
 > To develop an efficient translation-free recurrent neural architecture to  perform SMS spam detection which actually remembers the context of SMS.
