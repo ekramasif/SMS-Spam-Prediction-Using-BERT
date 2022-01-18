@@ -1,5 +1,7 @@
 # SMS spam detection using Bidirectional Encoder Representations from Transformers[BERT]
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ekramasif/SMS-Spam-Prediction-Using-BERT/blob/main/LICENSE)
+
 ## Objective
 > To develop an efficient translation-free recurrent neural architecture using BERT to perform SMS spam detection which actually remembers the context of SMS.
 
