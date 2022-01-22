@@ -51,7 +51,7 @@ I use [BERT Preprocessed](https://tfhub.dev/tensorflow/bert_en_uncased_preproces
  ### 4.Result
  
  
-       precision    recall  f1-score   support
+                        precision    recall  f1-score   support
 
                  0       0.95      0.91      0.93       187
                  1       0.92      0.95      0.93       187
