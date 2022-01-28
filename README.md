@@ -21,7 +21,7 @@ We also added our own dataset, collected from real world messages that is of thr
 
 Dataset consists of three columns index, sms, label. label = { SPAM, HAM}
 
-Total dataset contains around 5214 records. Its an unbalanced dataset, because we have 50% of them as HAM messages and remaining 50% SPAM messages.
+Total dataset contains around 5214 records. Its an unbalanced dataset, because we have 92% of them as HAM messages and remaining 7% SPAM messages. So we balanced it as 50% of both label.
 
 ```
 942	spam	How about getting in touch with folks waiting ...
