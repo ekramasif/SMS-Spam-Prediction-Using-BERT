@@ -62,9 +62,6 @@ I use [BERT Preprocessed](https://tfhub.dev/tensorflow/bert_en_uncased_preproces
       
       
       
-<p align="center">
-  <h2 align="center">All credit goes to</h2>
-</p>
 
 <p align="center">
   <a href="https://ekramasif.me">
